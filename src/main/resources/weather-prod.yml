@@ -1,0 +1,4 @@
+weatherstack:
+  api:
+    rootUrl: http://api.weatherstack.com/current
+    accessKey: a56557e2acbf95aaa7ff9065ccdd4128

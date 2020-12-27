@@ -1,0 +1,9 @@
+# Logging
+logging:
+  level:
+    web: debug
+    com:
+      thalasoft: debug
+    org:
+      springframework: debug
+  file: logs/weather-rest.log
